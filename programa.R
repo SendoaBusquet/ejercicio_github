@@ -1,1 +1,1 @@
-{\rtf1}
+#este es mi programa de datos
